@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">Mis Tareas</string>
+<string name="ver_cuadricula">Ver en cuadrícula</string><string name="ver_lista">Ver en lista</string>
+<string name="borrar_completadas">Borrar completadas</string>
+<string name="opciones_tarea">Opciones de la tarea</string>
+<string name="prioridad_alta">Prioridad alta</string><string name="prioridad_media">Prioridad media</string><string name="prioridad_baja">Prioridad baja</string>
+<string name="duplicar">Duplicar</string><string name="eliminar">Eliminar</string>
+<string name="anadir_tarea">Añadir tarea</string><string name="nueva_tarea">Nueva tarea %1$d</string>
+<string name="nueva_tarea_descripcion">Añadida con el botón +</string>
+<string name="tareas_borradas">Tareas borradas: %1$d</string><string name="copia_de">%1$s (copia)</string>
+</resources>
