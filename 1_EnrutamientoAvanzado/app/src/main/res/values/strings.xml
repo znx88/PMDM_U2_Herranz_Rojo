@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Enrutamiento Avanzado</string>
+    <string name="action_settings">Ajustes</string>
+
+    <!-- Títulos de la barra superior (los usa el grafo) -->
+    <string name="first_fragment_label">Nueva nota</string>
+    <string name="second_fragment_label">Detalle de la nota</string>
+
+    <!-- Pantalla 1 -->
+    <string name="titulo_formulario">Escribe el título de tu nota:</string>
+    <string name="hint_nota">Ej. Comprar libros de FP</string>
+    <string name="enviar_nota">Enviar nota</string>
+    <string name="error_titulo_vacio">Ingresa un título primero</string>
+
+    <!-- Pantalla 2 -->
+    <string name="volver">Volver</string>
+    <string name="cargando">Cargando…</string>
+</resources>
