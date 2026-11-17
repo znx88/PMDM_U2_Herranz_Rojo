@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">Mis Tareas</string>
+<string name="ver_cuadricula">Ver en cuadrícula</string><string name="ver_lista">Ver en lista</string><string name="borrar_completadas">Borrar completadas</string><string name="cambiar_nombre">Cambiar nombre</string>
+<string name="opciones_tarea">Opciones de la tarea</string><string name="prioridad_alta">Prioridad alta</string><string name="prioridad_media">Prioridad media</string><string name="prioridad_baja">Prioridad baja</string>
+<string name="duplicar">Duplicar</string><string name="eliminar">Eliminar</string>
+<string name="anadir_tarea">Añadir tarea</string><string name="nueva_tarea">Nueva tarea</string><string name="hint_titulo">Título</string><string name="hint_descripcion">Descripción (opcional)</string><string name="elegir_fecha">Fecha límite</string><string name="sin_fecha">Sin fecha</string><string name="fecha_limite">Fecha límite: %1$s</string><string name="guardar">Guardar</string><string name="cancelar">Cancelar</string><string name="error_titulo_vacio">Escribe un título</string>
+<string name="confirmar_eliminar_titulo">¿Eliminar la tarea?</string><string name="confirmar_eliminar_mensaje">Se eliminará «%1$s».</string><string name="confirmar_borrar_titulo">¿Borrar las tareas completadas?</string><string name="confirmar_borrar_mensaje">Se borrarán %1$d tareas completadas.</string><string name="borrar">Borrar</string>
+<string name="tarea_eliminada">Tarea eliminada</string><string name="tareas_borradas">Tareas borradas: %1$d</string><string name="deshacer">Deshacer</string><string name="tarea_duplicada">Tarea duplicada</string><string name="tarea_guardada">Tarea guardada</string><string name="sin_completadas">No hay tareas completadas</string><string name="copia_de">%1$s (copia)</string>
+<string name="dialogo_nombre_titulo">¿Cómo te llamas?</string><string name="dialogo_nombre_mensaje">Lo guardaremos en el móvil para saludarte la próxima vez.</string><string name="hint_nombre">Tu nombre</string><string name="subtitulo_tareas_de">Tareas de %1$s</string>
+</resources>
