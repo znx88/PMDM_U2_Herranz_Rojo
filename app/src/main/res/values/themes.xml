@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema sin ActionBar propia: ponemos nuestra MaterialToolbar -->
+    <style name="Base.Theme.EnrutamientoAvanzado" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.EnrutamientoAvanzado" parent="Base.Theme.EnrutamientoAvanzado" />
+</resources>
