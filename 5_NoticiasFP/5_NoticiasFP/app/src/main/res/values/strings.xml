@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Noticias FP</string>
+
+    <!-- Navigation Drawer -->
+    <string name="abrir_menu">Abrir menú</string>
+    <string name="cerrar_menu">Cerrar menú</string>
+    <string name="cabecera_titulo">Noticias FP</string>
+    <string name="cabecera_subtitulo">El periódico de clase</string>
+    <string name="seccion_todas">Portada</string>
+    <string name="seccion_deportes">Deportes</string>
+    <string name="seccion_tecnologia">Tecnología</string>
+    <string name="seccion_cultura">Cultura</string>
+    <string name="seccion_favoritas">Mis favoritas</string>
+    <string name="mis_noticias">Mis noticias</string>
+
+    <!-- Tarjetas -->
+    <string name="leer_mas">Leer más</string>
+    <string name="marcar_favorita">Marcar como favorita</string>
+    <string name="abriendo">Abriendo «%1$s»…</string>
+    <string name="sin_favoritas">Todavía no tienes noticias favoritas</string>
+
+    <!-- FAB y Snackbar -->
+    <string name="nueva">Nueva</string>
+    <string name="noticia_publicada">Noticia publicada</string>
+    <string name="deshacer">Deshacer</string>
+</resources>

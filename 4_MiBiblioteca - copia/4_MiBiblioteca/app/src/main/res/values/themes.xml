@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema sin ActionBar propia: ponemos nuestra MaterialToolbar -->
+    <style name="Base.Theme.MiBiblioteca" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.MiBiblioteca" parent="Base.Theme.MiBiblioteca" />
+</resources>

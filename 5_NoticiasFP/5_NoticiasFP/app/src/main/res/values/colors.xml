@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta de la marca (modo claro) -->
+    <color name="marca_primario">#FF00695C</color>
+    <color name="marca_primario_contenedor">#FFB2DFDB</color>
+    <color name="marca_on_primario_contenedor">#FF00201C</color>
+    <color name="marca_secundario">#FFE6945A</color>
+    <color name="marca_secundario_contenedor">#FFFFDCC5</color>
+    <color name="marca_on_secundario_contenedor">#FF331200</color>
+
+    <!-- Paleta de la marca (modo oscuro) -->
+    <color name="marca_primario_oscuro">#FF80CBC4</color>
+    <color name="marca_primario_contenedor_oscuro">#FF00504A</color>
+    <color name="marca_secundario_oscuro">#FFFFB68A</color>
+    <color name="marca_secundario_contenedor_oscuro">#FF6E3A12</color>
+</resources>

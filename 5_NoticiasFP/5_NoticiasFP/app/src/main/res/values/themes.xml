@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema de la app: TODOS los componentes Material toman de aquí sus colores -->
+    <style name="Base.Theme.Noticias" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/marca_primario</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/marca_primario_contenedor</item>
+        <item name="colorOnPrimaryContainer">@color/marca_on_primario_contenedor</item>
+        <item name="colorSecondary">@color/marca_secundario</item>
+        <item name="colorSecondaryContainer">@color/marca_secundario_contenedor</item>
+        <item name="colorOnSecondaryContainer">@color/marca_on_secundario_contenedor</item>
+    </style>
+
+    <style name="Theme.Noticias" parent="Base.Theme.Noticias" />
+</resources>
